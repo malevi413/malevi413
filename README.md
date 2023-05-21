@@ -19,8 +19,8 @@
 
 
 
-### :man_technologist: About Me :
-Im beginner QA Engineer
+### :man_technologist: 
+
 
 ---
 <div>
