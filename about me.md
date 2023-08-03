@@ -6,7 +6,7 @@
   <a href="linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://nn.hh.ru/resume/a1ae5b2bff0b229df80039ed1f6e376c7a3679">
+  <a href="https://nn.hh.ru/resume/5de0dbbcff0c3b5cf00039ed1f64534c763237">
     <img src="https://img.shields.io/badge/HeadHunter-red?logo=logoColor=white&style=for-the-badge"/>
   </a>
      <br><img src="https://komarev.com/ghpvc/?username=malevi413&style=flat-square&color=blue" alt=""/>
